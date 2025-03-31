@@ -1,0 +1,12 @@
+{
+  "c2array": true,
+  "size": [6, 1, 2],
+  "data": [
+    [["Megaman, Has vencido a uno de mis secuases.", "Shockman"]],
+    [["Pero esto es solo el inicio.", "Shockman"]],
+    [["¿Que quieres decir?", "Megaman"]],
+    [["El DR.Willy me hizo una pequeña mejora para acabar contigo.", "Shockman"]],
+    [["¡Aaaahhh! ¡Aaaahhh!", "Megaman"]],
+    [["Hasta luego MEGAMAN...", "Shockman"]]
+  ]
+}
